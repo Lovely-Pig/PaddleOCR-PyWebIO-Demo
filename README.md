@@ -2,7 +2,7 @@
 
 > 使用PyWebIO部署PaddleOCR应用
 
-体验地址：<http://ip:8888>
+体验地址：<http://39.106.32.208:8888>
 
 ## 介绍
 
@@ -31,7 +31,7 @@
 
 注意：请使用Linux系统进行开发（原因：paddleocr的whl包对Windows的支持不太好）
 
-### 1 创建python环境
+### 1 创建Python环境
 
 ```sh
 $ conda create --name pywebio python=3.9
