@@ -1,6 +1,6 @@
 # PaddleOCR PyWebIO Demo
 
-> 使用PyWebIO部署PaddleOCR应用
+> 使用 PyWebIO 部署 PaddleOCR 应用
 
 体验地址：<http://39.106.32.208:8888>
 
