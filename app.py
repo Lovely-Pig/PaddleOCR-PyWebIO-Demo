@@ -43,4 +43,4 @@ def main():
 
 
 if __name__ == '__main__':
-    pywebio.start_server(main, port=8888, debug=True)
+    pywebio.start_server(main, port=8888, debug=True, reconnect_timeout=60)
